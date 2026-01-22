@@ -1,0 +1,33 @@
+{
+    "name": "skene",
+    "owner": {
+        "name": "Skene Technologies",
+        "email": "support@skene.ai"
+    },
+    "metadata": {
+        "description": "PLG (Product-Led Growth) analysis tools for Claude Code"
+    },
+    "plugins": [
+        {
+            "name": "skene",
+            "source": {
+                "source": "github",
+                "repo": "SkeneTechnologies/skene-skills"
+            },
+            "description": "PLG analysis skills for analyzing codebases, identifying growth opportunities, and generating growth strategies",
+            "version": "1.0.0",
+            "author": {
+                "name": "Skene Technologies"
+            },
+            "repository": "https://github.com/SkeneTechnologies/skene-skills",
+            "license": "MIT",
+            "keywords": [
+                "plg",
+                "growth",
+                "analysis",
+                "product-led-growth"
+            ],
+            "category": "productivity"
+        }
+    ]
+}
