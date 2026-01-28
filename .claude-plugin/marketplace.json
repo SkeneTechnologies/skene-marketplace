@@ -12,7 +12,7 @@
             "name": "skene",
             "source": {
                 "source": "github",
-                "repo": "https://github.com/SkeneTechnologies/skene-skills"
+                "repo": "SkeneTechnologies/skene-skills"
             },
             "description": "PLG analysis skills for analyzing codebases, identifying growth opportunities, and generating growth strategies",
             "version": "1.0.0",
